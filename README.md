@@ -121,3 +121,8 @@ Segment Control Component
 - [ ] Vertical scrolling works in both states
 - [ ] Bottom spacing is adequate
 - [ ] Visual feedback is clear for selected state
+
+## Screenshots
+
+![Interaction Demo](Output1.png)
+![Interaction Demo](Output2.png)
